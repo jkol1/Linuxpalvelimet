@@ -1,2 +1,3 @@
-# Linuxpalvelimet
-kurssin tehtäviä
+# Harjoitus 1 
+Hei Maailma!
+
