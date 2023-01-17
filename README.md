@@ -1,0 +1,2 @@
+# Linuxpalvelimet
+kurssin tehtäviä
