@@ -18,6 +18,8 @@ Ram 16gb
 otetaan expert mode nappia painamalla kaikki asetukset näkyviin
 
 Nimetään uusi virtuaali kone ja ISO imageksi valitaan aikaisemmin ladattu Debian image
+![VM1](https://user-images.githubusercontent.com/112541753/213416845-0092e788-b475-43ae-8350-9b85cb280b4a.JPG)
+
 
 valitaan haluttu ram muistin ja kovalevy muistin määrä. Valitsin 4000MB ja 60GB
 
