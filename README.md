@@ -11,7 +11,35 @@ Ram 16gb
 
 -10:35 Debian imagen haku Debian.org sivustolta ja lataus. Latauksessa kesti hetki sillä tiedosto yli 3GB. 
 
--10:
+-10:50 Debian image ladattu
+
+-10:50 Virtual boxiin clickaamalla ratasta, jonka alla lukee new aletaan tekemään virtuaali konetta
+
+otetaan expert mode nappia painamalla kaikki asetukset näkyviin
+
+Nimetään uusi virtuaali kone ja ISO imageksi valitaan aikaisemmin ladattu Debian image
+
+valitaan haluttu ram muistin ja kovalevy muistin määrä. Valitsin 4000MB ja 60GB
+
+painetaan Finish nappia ja tehdään virtuaali kone
+
+-11:15 Mennään tehdyn virtuaalikoneen asetuksiin ja etsitään storagesta Controller IDe johon vaihdetaan pienen levyn kuvasta ladattu Debian image
+
+-11:20 Tämän jälkeen käynnistetään virtuaalikone, ja valitaan ensimmäinen vaihtoehto
+
+-11:30 Kokeillaan Internettiä ja valitaan iltasanomat
+![is](https://user-images.githubusercontent.com/112541753/213416290-69eabf82-3b7d-4f74-8022-0483f57b70a5.JPG)
+
+
+aloitetaan asennus ja valitaan oikeat asetukset
+
+-11:45 
+
+
+
+
+
+
 
 
 
