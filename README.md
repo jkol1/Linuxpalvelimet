@@ -20,16 +20,23 @@ käyttöjärjestelmä Windows 10 Pro
 -10:50 Virtual boxiin clickaamalla ratasta, jonka alla lukee new aletaan tekemään virtuaali konetta
 
 otetaan expert mode nappia painamalla kaikki asetukset näkyviin
+![vm4](https://user-images.githubusercontent.com/112541753/213422360-59f31a04-44f5-4ed8-8a36-7b7117cdfcdd.JPG)
+
 
 Nimetään uusi virtuaali kone ja ISO imageksi valitaan aikaisemmin ladattu Debian image
 ![VM1](https://user-images.githubusercontent.com/112541753/213416845-0092e788-b475-43ae-8350-9b85cb280b4a.JPG)
 
 
 valitaan haluttu ram muistin ja kovalevy muistin määrä. Valitsin 4000MB ja 60GB
+![VM2](https://user-images.githubusercontent.com/112541753/213422151-465bc8b7-e547-4a67-941e-d0372a590076.JPG)
+![VM3](https://user-images.githubusercontent.com/112541753/213422257-42802c24-1bc8-4cf2-8479-1044edb65f82.JPG)
+
 
 painetaan Finish nappia ja tehdään virtuaali kone
 
 -11:15 Mennään tehdyn virtuaalikoneen asetuksiin ja etsitään storagesta Controller IDe johon vaihdetaan pienen levyn kuvasta ladattu Debian image
+![vm5](https://user-images.githubusercontent.com/112541753/213422478-7ae928a7-7058-40c3-a381-0386f09210d0.JPG)
+
 
 -11:20 Tämän jälkeen käynnistetään virtuaalikone, ja valitaan ensimmäinen vaihtoehto
 
