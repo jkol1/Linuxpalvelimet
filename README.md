@@ -47,7 +47,12 @@ jonka jälkeen päivitetään  komennolla
 
      $ sudo apt-get -y dist-upgrade
    
+   
+- 12:00 
+ Lisätään palomuuri komennolla ja laitetaan se päälle
  
+       $ sudo apt-get -y install ufw
+       $ sudo ufw enable
 
 
 
