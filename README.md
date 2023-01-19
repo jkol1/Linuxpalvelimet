@@ -1,10 +1,14 @@
 # Linuxin asennus virtuaali koneeseen
+
+
 ## Kone mihin asennetaan
 Lenovo Thinkpad X1 Yoga 2nd signature edition
 
 Processori = Intel i7 2.7GHz
 
 Ram 16gb
+
+käyttöjärjestelmä Windows 10 Pro
 
 ## Asennuksen aloitus
 -10:30 Virtual boxin lataus Virtualbox.org kotisivun kautta ja asennus
@@ -42,6 +46,7 @@ aloitetaan asennus ja valitaan oikeat asetukset
 ajetaan komento 
 
     $ sudo apt-get update
+![image](https://user-images.githubusercontent.com/112541753/213421157-10f95843-550b-4688-8e45-253ac43ddc12.png)
 
 jonka jälkeen päivitetään  komennolla
 
@@ -54,6 +59,9 @@ jonka jälkeen päivitetään  komennolla
        $ sudo apt-get -y install ufw
        $ sudo ufw enable
 
+Tämän jälkeen käynnistetään virtuaalikone uusiksi applikaatio menusta vasemmasta ylänurkasta
+
+-12:15 Nyt on asennettu toimiva Linux virtuaalikoneeseen.
 
 
 
