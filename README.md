@@ -45,7 +45,7 @@ ajetaan komento
 
 jonka jälkeen päivitetään  komennolla
 
-   $ sudo apt-get -y dist-upgrade
+     $ sudo apt-get -y dist-upgrade
    
  
 
