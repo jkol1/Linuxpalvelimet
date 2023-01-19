@@ -43,6 +43,12 @@ ajetaan komento
 
     $ sudo apt-get update
 
+jonka jälkeen päivitetään  komennolla
+
+   $ sudo apt-get -y dist-upgrade
+   
+ 
+
 
 
 
