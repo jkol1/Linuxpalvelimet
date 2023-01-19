@@ -35,8 +35,9 @@ painetaan Finish nappia ja tehdään virtuaali kone
 
 aloitetaan asennus ja valitaan oikeat asetukset
 
--11:45 
+-11:45 avataan terminaali
 
+![image](https://user-images.githubusercontent.com/112541753/213418320-d76de074-755d-4073-80e3-fa063f8aedbe.png)
 
 
 
