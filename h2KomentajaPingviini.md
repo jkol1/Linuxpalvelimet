@@ -1,5 +1,5 @@
 
-#Komentaja Pingviini tehtävä
+# Komentaja Pingviini tehtävä
 
 ## Micron asennus
 
