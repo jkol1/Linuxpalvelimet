@@ -63,11 +63,21 @@ Tämän jälkeen tarkistetaan, että sivu on validi HTML5 sivu validaattorin avu
 Tuloksena pari varoitusta, mutta muuten on validi HTML5 sivu nyt tehty.
 ![image](https://user-images.githubusercontent.com/112541753/216286544-97f5239e-c6a4-476c-859c-df2a8ff2470b.png)
 
+## Indiehackers podcast 
+
+Kuuntelin jakson: #191 Making a Living From the Paid Newsletter Ecosystem with Yaroslaw Bagriy of Newsletter Crew
+
+- Puhuvat eri uutislehtiä varten olevista vaihtoehdoista. esim. wordpess, substack, ghost
+- Mahdollisuudet rahantekoon nykyisen ekosysteemin avulla
+- Vieras kertoo miksi ja miten aloitti newsletter crew:in
+- Mitä uusia/vanhoja uutislehtien tekijöitä kannattaa pitää silmällä esim. the browser
+
 
 ## Lähteet 
 
 - https://terokarvinen.com/2023/linux-palvelimet-2023-alkukevat/#h5-hello-web
 - https://terokarvinen.com/2012/short-html5-page/
+- https://www.indiehackers.com/podcast/191-yaroslaw-bagriy-of-newsletter-crew
 
 
    
