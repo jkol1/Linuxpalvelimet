@@ -1,7 +1,18 @@
 
 # H6 Based Tehtävä
 
-## 
+## Tiivistelmä
+
+Getting started
+- alottelijalle perusohjeita
+- mistä löytyy conf ja muut tärkeät tiedostot, jotka configuroi serveriä
+- serverin nimi  täytyy olla linkitetty ip osoitteeseen, jotta voi liittyä serveriin
+- Nettisivun sisältö yleensä jaettu staattiseen ja dynaamiseen sisältöön
+
+Name-based Virtual Host Support
+- Jokaiselle Hostille tarvii erillisen ip osoitteen
+- Nimipohjainen yleensä yksinkertaisempi vaihtoehto
+
 
 ## Etusivun vaihto apachelle
 
