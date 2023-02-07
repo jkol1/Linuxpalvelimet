@@ -36,4 +36,25 @@ Käydään vielä tarkistamassa vaihtuiko uusi etusivu localhostiin, mikä aikai
 ![image](https://user-images.githubusercontent.com/112541753/216765508-35692a38-60e1-41b6-ab9d-8b04e031ce5b.png)
 
 Nyt on vaihdettu etusivu.
+
 ## virheilmoitusten vertailu
+
+käydään tekemässä etusivu.conf tiedostoon virhe poistamalla nimen lopusta k
+
+        $sudoedit etusivu.conf
+![image](https://user-images.githubusercontent.com/112541753/217246717-908065ff-f1ee-4809-b75b-d78d94b568dc.png)
+
+etsitään virheilmoitus komenolla
+
+        $sudo cat /var/log/apache2/error.log
+        
+![image](https://user-images.githubusercontent.com/112541753/217246958-0ab6d4af-e605-4b55-8bab-ee0b707e6432.png)
+Kertoo, että server configuration on kieltänyt yhteyden hakemistoon
+
+tehdään configtest komennolla
+
+        $sudo apache2ctl configtest
+
+![image](https://user-images.githubusercontent.com/112541753/217247175-31cc2c69-c057-42d3-a2ca-42ee915ff719.png)
+
+configtesti taas kertoo, että ei ole domain nimeä ja globaalisti pitäisi asettaa se, että ei tulisi enää viestiä
