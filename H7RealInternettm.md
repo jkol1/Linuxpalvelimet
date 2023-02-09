@@ -84,6 +84,10 @@ Etsitään merkkejä murtautumisista komennoilla
 
 Ei vielä löytynyt merkkejä murtautumisista, mutta varmasti kun myöhemmin käy kokeilemassa löytyy murtautumisen merkkejä
 
+15 Minuuttia myöhemmin kokeilin uudestaan, jos olisi tullut murtautumisia ja yksi yritys oli kerennyt odottelun välissä tulemaan.
+
+![image](https://user-images.githubusercontent.com/112541753/217797955-a147eea2-71fe-4100-9dc2-e656c37f452e.png)
+
 
 ## Lähteet
 
