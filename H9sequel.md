@@ -2,6 +2,8 @@
 
 ## Yrityssoftaa
 
+Esimerkiksi vaatekaupan verkkosivut/verkkokauppa. 
+Saadaan verkkokaupasta skaalautuvampi, sillä käyttäjiä voi olla monta kerralla, jotka hakee tietoa esim. farkkujen määrästä varastossa.
 
 
 ## PostgreSQL asennus
