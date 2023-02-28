@@ -72,7 +72,7 @@ Lisätään modeleita komenolla:
     
     $ micro jdb/models.py
 
-![image](https://user-images.githubusercontent.com/112541753/221526349-83251be9-f7c6-4930-9b02-e6600f6c3cff.png)
+![image](https://user-images.githubusercontent.com/112541753/221857150-a939bcad-808c-47ed-9bf0-a43ada5bf9c2.png)
 
 Päivitetään taas tietokanta komennoilla:
 
